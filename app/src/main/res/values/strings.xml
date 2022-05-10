@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AKCSIT_22</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone_no">Phone No</string>
+    <string name="male">MALE</string>
+    <string name="others">OTHERS</string>
+    <string name="female">FEMALE</string>
+    <string name="password">Password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="select_gender">SELECT GENDER</string>
+    <string name="already_have_an_account_sign_in_now">already have an account? Sign in now</string>
+    <string name="sign_in">Sign In</string>
+</resources>
